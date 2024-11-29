@@ -17,3 +17,24 @@ To set up the project, clone the repository:
 
 ```bash
 git clone https://github.com/bhuvighosh3/ACL-Miniproject.git
+
+## Future Plans for Repository Enhancements
+## Organization Profile Support
+In addition to supporting individual user profiles, we aim to extend functionality to analyze **GitHub organization profiles**. This will provide a broader overview of activity across multiple repositories within an organization.
+
+## Enhanced NLP Queries
+Our goal is to enhance the natural language processing capabilities to support more **advanced and specific user queries**, such as:
+- Detailed statistics (e.g., top contributors, most forked repositories)
+- Advanced repository analysis (e.g., commit history trends, issues over time)
+
+This will enable more intuitive interactions with the repository data.
+
+## Additional Integrations
+We plan to integrate with other services such as:
+- **GitHub Actions**: Display build/test status and commit frequency.
+- **Other GitHub APIs**: Include insights from issues, pull requests, and more.
+
+These integrations will provide a richer and more comprehensive view of the repository's health and activity.
+Stay tuned for these exciting updates!
+
+
