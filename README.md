@@ -11,7 +11,7 @@ The **GitHub Profile Analyzer** is a tool designed to provide detailed insights 
 - **Interactive Querying:** Use natural language to ask questions about the profile.
 - **User-Friendly Interface:** Explore the profile through an intuitive Gradio-based interface.
 
-# Future Plans for Repository Enhancements
+## Future Plans for Repository Enhancements
 
 ## Enhanced NLP Queries
 Our goal is to enhance the natural language processing capabilities to support more **advanced and specific user queries**, such as:
