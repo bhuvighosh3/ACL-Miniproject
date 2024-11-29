@@ -11,13 +11,6 @@ The **GitHub Profile Analyzer** is a tool designed to provide detailed insights 
 - **Interactive Querying:** Use natural language to ask questions about the profile.
 - **User-Friendly Interface:** Explore the profile through an intuitive Gradio-based interface.
 
-## Installation
-
-To set up the project, clone the repository:
-
-```bash
-git clone https://github.com/bhuvighosh3/ACL-Miniproject.git
-
 ## Future Plans for Repository Enhancements
 ## Organization Profile Support
 In addition to supporting individual user profiles, we aim to extend functionality to analyze **GitHub organization profiles**. This will provide a broader overview of activity across multiple repositories within an organization.
@@ -37,4 +30,11 @@ We plan to integrate with other services such as:
 These integrations will provide a richer and more comprehensive view of the repository's health and activity.
 Stay tuned for these exciting updates!
 
+
+## Installation
+
+To set up the project, clone the repository:
+
+```bash
+git clone https://github.com/bhuvighosh3/ACL-Miniproject.git
 
